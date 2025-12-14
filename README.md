@@ -4,7 +4,7 @@
 - Python 3.10+
 - OpenAI
 - aiogram
-- VPN (Для админов желательно avoVPN Код:vless://0967c798-db7a-480c-9add-370044d253ff@95.141.32.52:443?security=tls&sni=owlycloud.biz&fp=chrome#avovpn.com(Скоро закончится доступ))
+- VPN (Для админов, (для пользователей не нужно) желательно @avoVPN_bot Код:vless://0967c798-db7a-480c-9add-370044d253ff@95.141.32.52:443?security=tls&sni=owlycloud.biz&fp=chrome#avovpn.com
 ## Установка
 1. Клонировать репозиторий
    ```bash
