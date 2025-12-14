@@ -9,6 +9,7 @@
 1. Клонировать репозиторий
    ```bash
    git clone https://github.com/RealAnski1/Hakaton-AI.git
+   cd Hakaton-AI
    ```
 2. Устанавливать зависимости:
    ```bash
@@ -18,6 +19,7 @@
    ```bash
    python main.py
    ```
+4. Запустите впн
 
 ## Использование
 ### Если пользователь то:
